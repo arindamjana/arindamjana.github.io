@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+
+  <div class="container">
+    <aside class="sidebar">
+      <a href="{{ "/" | relative_url }}" class="logo-link">
+        <img src="{{ "/assets/images/logo.png" | relative_url }}" alt="Logo" class="logo">
+      </a>
+      <nav>
+        <ul class="nav-list">
+          <li><a href="{{ "/about/" | relative_url }}">about me</a></li>
+          <li><a href="{{ "/portfolio/" | relative_url }}">portfolio</a></li>
+          <li><a href="{{ "/shares/" | relative_url }}">shares</a></li>
+          <li><a href="{{ "/blog/" | relative_url }}">blog</a></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
+
+</body>
+</html>
