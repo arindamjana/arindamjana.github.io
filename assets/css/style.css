@@ -5,6 +5,11 @@ body {
   color: #333;
 }
 
+a,
+a:visited {
+  color: #333;
+}
+
 .container {
   display: flex;
   min-height: 100vh;
@@ -51,6 +56,7 @@ body {
 .content {
   flex-grow: 1;
   padding: 40px;
+  max-width: 800px;
 }
 
 /* Blog Grid */
@@ -107,4 +113,10 @@ body {
 
 .post-footer {
   margin-top: 40px;
+}
+
+.post-nav {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
 }
