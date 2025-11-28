@@ -1,6 +1,6 @@
 ---
 layout:	post  
-title:	"Notes from the Fringes of Academia"
+title:	"Notes from the Fringes of Academia #1"
 date:	2025-07-20 12:02:22 +0200  
 categories:	miscellany  
 ---

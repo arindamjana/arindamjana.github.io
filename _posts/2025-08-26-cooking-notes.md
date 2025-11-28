@@ -1,6 +1,6 @@
 ---
 layout:	post  
-title:	"Cooking Notes"
+title:	"Cooking Notes #1"
 date:	2025-08-26 00:00:00 +0200  
 categories:	miscellany  
 ---
