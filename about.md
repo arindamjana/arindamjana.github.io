@@ -15,7 +15,7 @@ Second, I am studying the impact of (macro-)economic transitions (e.g., low carb
 
 Third, is a meta theme: investigating the critical role of data ecosystems in spatial decision-making in cities, specifically looking at how data deficits can hinder such processes, and whether more data is sub-optimal.  
 
-My current CV is available [here](https://1drv.ms/b/c/f5547308254bd5c8/IQD5F9yMNAZ9SaGmayHp8OH0AabrvAQzV0flK62uvOLv90Q?e=yZmHkf).  
+My current CV is available [here](/assets/files/A%20Jana%20-%20CV.pdf).  
 
 …
 

@@ -2,7 +2,7 @@
 layout:	post  
 title:	"Cooking Notes #1"
 date:	2025-08-26 00:00:00 +0200  
-categories:	miscellany  
+categories:	cooking-notes  
 ---
 
 *Background:* Over the last couple of decades I have been toying with the idea for a book on how cooking mirrors the migration story. The origins of this idea was based on my lived experiences in various Indian cities — migrants/diaspora had to modify their food to not only fit a constrained optimisation algorithm on ingredients, but also, especially in the case of satisfying external interests, on local tastes. My notes on this thread have been growing over time, and hopefully, this experiment in collating some of the more random pieces into a series will help me build/structure the analytical framework that I have in my head.  
